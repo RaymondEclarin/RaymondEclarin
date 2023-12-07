@@ -12,9 +12,9 @@ I am Raymond Eclarin, a passionate individual with a flair for coding and expert
 
 ## Certification
 
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB4AC71B9B8B9E39AC000B2647257BF071D15604CAF75CFF3193271B5C0282C2&fbclid=IwAR1TUsEeV1dBSpQPoGw0gtoVn69t9X5QUydzrLiUDoYk9kA3AAW7aWJL3xs)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3C8A98B24B3785C5CD7CF77D48367F532912DFF48610A7A93EA2D6433AC5243&fbclid=IwAR0hQQOtslJHrYOW83jeIXzhA39nMW11g4UkklL3c-DmIVjuxUfM9_xLnTc)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3C8A98B24B3785C5CD7CF77D48367F532912DFF48610A7A93EA2D6433AC5243&fbclid=IwAR11U9u0AV3V7lMKNBw0H6KZifiFnWya54T5ZOKMEGQLabTFfFGaVK20EeQ)
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6AF49D261421F19C78E32408B55D3A8C0F77218A06FC636F0465F108C3B1E0F8&fbclid=IwAR38ef5rJAEhP1yBxY1eHX1jhmVJ4uSV1imwrWKkGBm4PQLbb82NChbHOsU)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB4AC71B9B8B9E39AC000B2647257BF071D15604CAF75CFF3193271B5C0282C2&fbclid=IwAR1RMiNuOf3gll7aaAkhOgh2APExXwZc_1lygvMc-dCDX4H22SrvPonmb7Q)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3C8A98B24B3785C5CD7CF77D48367F532912DFF48610A7A93EA2D6433AC5243&fbclid=IwAR1h9MeBzGS4PVQgrnqAYxbBkZYBGqKFHcSSZqo_zeuY9diGdpT6l6y_jJ8)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/9cb75fc9a5c64d79811b9bbd4ed00579)
 
 ## Skill Sets
