@@ -16,6 +16,7 @@ I am Raymond Eclarin, a passionate individual with a flair for coding and expert
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB4AC71B9B8B9E39AC000B2647257BF071D15604CAF75CFF3193271B5C0282C2&fbclid=IwAR1RMiNuOf3gll7aaAkhOgh2APExXwZc_1lygvMc-dCDX4H22SrvPonmb7Q)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A3C8A98B24B3785C5CD7CF77D48367F532912DFF48610A7A93EA2D6433AC5243&fbclid=IwAR1h9MeBzGS4PVQgrnqAYxbBkZYBGqKFHcSSZqo_zeuY9diGdpT6l6y_jJ8)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/9cb75fc9a5c64d79811b9bbd4ed00579)
+- https://courses.cognitiveclass.ai/certificates/ef7b3f4f5f214692a047dd6882cb71ca
 
 ## Skill Sets
 
